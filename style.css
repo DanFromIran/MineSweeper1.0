@@ -1,0 +1,20 @@
+*{
+	margin:0px;
+}
+#allCells{
+	margin-left: 544px;
+}
+img {
+
+	margin-bottom:-4px;
+	width:50px;
+	height:50px;
+}
+input {
+	width:30px;
+	height:30px;
+	margin-top:5px;
+	margin-left:544px;
+	font-size: 400%;
+
+}
